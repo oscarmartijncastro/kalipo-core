@@ -99,7 +99,7 @@
 		"@liskhq/lisk-genesis": "^0.2.4",
 		"@oclif/command": "1.8.16",
 		"@oclif/plugin-autocomplete": "1.2.0",
-		"@oclif/plugin-help": "5.1.12",
+		"@oclif/plugin-help": "5.2.13",
 		"axios": "0.21.1",
 		"fs-extra": "9.1.0",
 		"inquirer": "7.3.2",
